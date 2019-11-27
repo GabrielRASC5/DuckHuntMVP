@@ -1,0 +1,46 @@
+    body{
+    background-color: black;
+}
+
+.duck{
+    border-bottom: orange;
+}
+
+#title{
+    color: aqua;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+#line{
+    color: orange;    
+}
+
+#name{
+    color: aqua;
+    text-align: center;
+    font-size: 100px; 
+}
+
+.first{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#game{
+    /* display: flex;
+    justify-content: space-around; */
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
+
+#uno{
+    /* display: flex;
+    justify-content: space-around; */
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+}
